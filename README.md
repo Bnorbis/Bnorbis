@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bruna Naian, but you can call me Bnorbis!</h1>
+<h1 align="center">Hi, I'm Bruna Naian, but you can call me Bnorbis!</h1>
 <h3 align="center">An eager aspiring developer, enthusiastic about enhancing my skills.</h3>
 
 <h3 align="left">Connect with me:</h3>
