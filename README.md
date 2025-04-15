@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Bruna Naian, but you can call me Bnorbis!</h1>
-<h3 align="center">An eager aspiring developer, enthusiastic about enhancing my programming skills.</h3>
-<h3 align="center">I take animals and game development as my favorite hobbies!</h3>
-![image](https://github.com/user-attachments/assets/7bb8706f-741b-4d05-9a79-955368f6f7f8)
+<h3 align="center">An eager aspiring developer, enthusiastic about enhancing my programming skills! <3.</h3>
+![Descrição do GIF](https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
