@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Bruna Naian, but you can call me Bnorbis!</h1>
 <h3 align="center">An eager aspiring developer, enthusiastic about enhancing my programming skills! <3.</h3>
-![Gato digitando](226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif)
+(https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
