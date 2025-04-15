@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Bruna Naian, but you can call me Bnorbis!</h1>
-<h3 align="center">An eager aspiring developer, enthusiastic about enhancing my skills.</h3>
+<h3 align="center">An eager aspiring developer, enthusiastic about enhancing my programming skills.</h3>
+<h3 align="center">I take animals and game development as my favorite hobbies!</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
