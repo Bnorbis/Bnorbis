@@ -13,14 +13,12 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Beware they do not represent my main skills!</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bnorbis&layout=compact" alt="Top Langs" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bnorbis&show_icons=true&hide_title=true&count_private=true&hide=prs" alt="Bruna's GitHub stats" />
-</p>
 
 <h3 align="center">Together, we can use our skills to craft a brighter future through technology. Feel free to reach out—I’d love to collaborate!</h3>
 
