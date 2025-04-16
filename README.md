@@ -16,7 +16,7 @@
 <h3 align="center">Beware they do not represent my main skills!</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bnorbis&layout=compact" alt="Top Langs"  width="100 />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bnorbis&layout=compact" alt="Top Langs"  width="200 />
 </p>
 
 
