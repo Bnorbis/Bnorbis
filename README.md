@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Bruna Naian, but you can call me Bnorbis!</h1>
 
-<p align="center">I believe in continuous learning, whether it's through coding exercises, studying new frameworks, or tackling real-world projects.</p>
+<p align="center">A Fullstack developer passionate about coding, learning new frameworks, and transforming real-world problems into efficient solutions.</p>
 
-<p align="center">An eager aspiring developer, enthusiastic about enhancing my programming skills! &lt;3</p>
+<p align="center">I work with Java, Spring, Vue.js, React, SQL (Postgres/Oracle), and enjoy building scalable applications and user-friendly interfaces. I'm constantly seeking challenges to grow my skills and collaborate on meaningful projects.</p>
 
 <p align="center">Connect with me:</p>
 
@@ -13,13 +13,13 @@
 </p>
 
 <p align="center"><strong>Languages and Tools:</strong></p>
-<p align="center"><em>Beware: they do not represent my main skills!</em></p>
+<p align="center"><em>These are some of the technologies I work with regularly:</em></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bnorbis&layout=compact" alt="Top Languages" width="200" />
+  <img src="https://skillicons.dev/icons?i=java,vue,react,postgres,oracle,git,linux" alt="Skills" width="350" />
 </p>
 
-<p align="center">Together, we can use our skills to craft a brighter future through technology. Feel free to reach out—I’d love to collaborate!</p>
+<p align="center">I believe in the power of collaboration and continuous learning. Let's build something amazing together!</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="Collaboration GIF" width="100" />
