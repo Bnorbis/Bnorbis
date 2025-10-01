@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Bruna Naian, but you can call me Bnorbis!</h1>
+<h1 align="center">Hi, I'm Bruna Naian!</h1>
 
 <p align="center">A Fullstack developer passionate about coding, learning new frameworks, and transforming real-world problems into efficient solutions.</p>
 
