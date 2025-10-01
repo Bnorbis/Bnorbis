@@ -16,7 +16,7 @@
 <p align="center"><em>These are some of the technologies I work with regularly:</em></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,vue,react,postgres,oracle,git,linux" alt="Skills" width="350" />
+  <img src="https://skillicons.dev/icons?i=java,vue,react,postgres,kotlin,react,git,linux" alt="Skills" width="350" />
 </p>
 
 <p align="center">I believe in the power of collaboration and continuous learning. Let's build something amazing together!</p>
